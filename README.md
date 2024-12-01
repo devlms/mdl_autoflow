@@ -9,8 +9,8 @@ Moodle has everything needed to automate tasks for teachers, administrators and 
 
 We love to stick to the Moodle way of doing things. That's why this plugin will be using the following:
 
-- JavaScript: Language for the frontend. No TypeScript and no extra building steps.
-- Retejs: For handling the node ui capabilities.
+- **JavaScript**: Language for the frontend. No TypeScript and no extra building steps.
+- **[Retejs][retejslink]**: For handling the node ui capabilities.
 
 This list will be updated along with the development progress.
 
@@ -24,4 +24,6 @@ You can, even though we don't have a clear roadmap for the project yet. It's jus
 
 # Sponsor
 
-This project is boostraped by DevLMS. It maybe open for sponsorship when needed.
+This project is boostraped by DevLMS. It might open for sponsorship when needed.
+
+[retejslink]: https://retejs.org "Rete JS"
